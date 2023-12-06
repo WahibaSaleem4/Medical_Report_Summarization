@@ -1,5 +1,5 @@
 # Medical_Report_Summarization
-This repository contains a complete code of Fine-Tuning biobart model for summarization of Medical Reports.This model is a sequence-to-sequence model based on BioBart, specifically trained on a custom dataset comprising 70,000 radiology reports. Its primary function is to summarize radiology findings into concise impressions. The training process utilized the 70,000 reports to teach the model how to generate impressions effectively.
+This repository contains a complete code of Fine-Tuning biobart model for summarization of Medical Reports.This model is a sequence-to-sequence model based on BioBart, specifically trained on a custom dataset comprising 70,000 radiology reports. Its primary function is to summarize radiology findings into concise impressions. The training process utilized the 70,000 reports to teach the model how to generate impressions effectively. 
 
 ![WhatsApp Image 2023-12-05 at 11 05 42 PM](https://github.com/WahibaSaleem4/Medical_Report_Summarization/assets/111902250/5611ce9e-fd32-4889-944a-290d3a292ecc)
 
